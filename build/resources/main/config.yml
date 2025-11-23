@@ -1,0 +1,17 @@
+settings:
+  duration_seconds: 60
+  speed: 0.5
+  sound: true
+  cooldown_seconds: 5
+  move_cancel_distance: 0.6
+  gravity: 0.03
+  drag: 0.02
+  steps_per_tick: 8
+  color:
+    r: 255
+    g: 229
+    b: 0
+  size: 1.0
+
+messages:
+  start: "&eО да..."

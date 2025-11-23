@@ -1,0 +1,9 @@
+name: PeePlugin
+version: 1.0
+main: com.xviizyk.peeplugin.peeplugin
+api-version: 1.21
+commands:
+  pee:
+    description: Начало кайфа
+  stoppee:
+    description: Конец кайфа
